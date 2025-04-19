@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+.me {
+    width: 100px;
+    border-radius: 10px;
+    transition: all 1s ease;
+    cursor: pointer;
+}
+
